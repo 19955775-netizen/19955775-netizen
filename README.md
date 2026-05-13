@@ -5,6 +5,7 @@
 <br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=FF6EC4&center=true&vCenter=true&width=850&lines=Hola%2C+bienvenido+a+mi+repositorio;Aqui+guardo+mis+trabajos+y+proyectos;Aprendiendo+Desarrollo+de+Software;Modulo+2.1+-+Diseno+de+Sistemas+UML" />
+
 <br><br>
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" />
@@ -62,9 +63,42 @@ El objetivo de este repositorio es organizar mis prácticas y proyectos del mód
 
 ---
 
+## 📞 Contacto
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=4ADE80&center=true&vCenter=true&width=700&lines=Gracias+por+visitar+mi+repositorio;Sigue+aprendiendo+y+creando+proyectos;El+conocimiento+se+construye+paso+a+paso" />
+<p>
+  Si deseas contactarme o conocer más sobre mis proyectos, puedes encontrar mi información aquí:
+</p>
+
+<table>
+  <tr>
+    <td>📱 Teléfono</td>
+    <td>Tu número aquí</td>
+  </tr>
+  <tr>
+    <td>📧 Correo</td>
+    <td>tu-correo@gmail.com</td>
+  </tr>
+  <tr>
+    <td>📍 Dirección</td>
+    <td>Tu dirección aquí</td>
+  </tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/Contacto-Disponible-4ADE80?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Correo-Electronico-FF6EC4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Ubicacion-El%20Salvador-7873F5?style=for-the-badge" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=4ADE80&center=true&vCenter=true&width=700&lines=Gracias+por+visitar+mi+repositorio;Sigue+aprendiendo+y+creando+proyectos;El+conocimiento+se+construye+paso+a+paso" />
 
 <br>
 
