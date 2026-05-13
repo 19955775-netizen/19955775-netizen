@@ -63,6 +63,59 @@ El objetivo de este repositorio es organizar mis prácticas y proyectos del mód
 
 ---
 
+## 📝 Formulario de Datos Personales
+
+<div align="center">
+
+<p>
+  Información general del estudiante y creador de este repositorio.
+</p>
+
+<table>
+  <tr>
+    <td>👤 Nombre completo</td>
+    <td>Tu nombre aquí</td>
+  </tr>
+  <tr>
+    <td>🎓 Grado o nivel académico</td>
+    <td>1.º Año</td>
+  </tr>
+  <tr>
+    <td>🏫 Institución</td>
+    <td>Tu institución aquí</td>
+  </tr>
+  <tr>
+    <td>💻 Especialidad</td>
+    <td>Desarrollo de Software</td>
+  </tr>
+  <tr>
+    <td>📚 Módulo</td>
+    <td>Módulo 2.1 - Diseño de Sistemas Informáticos utilizando UML</td>
+  </tr>
+  <tr>
+    <td>🌎 País</td>
+    <td>El Salvador</td>
+  </tr>
+  <tr>
+    <td>📌 Intereses</td>
+    <td>Programación, bases de datos, diseño de sistemas y tecnología</td>
+  </tr>
+  <tr>
+    <td>🚀 Objetivo personal</td>
+    <td>Aprender y mejorar mis habilidades como desarrollador de software</td>
+  </tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/Estudiante-Desarrollo%20de%20Software-00C9FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Modulo-2.1-9B59B6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Pais-El%20Salvador-4ADE80?style=for-the-badge" />
+
+</div>
+
+---
+
 ## 📞 Contacto
 
 <div align="center">
@@ -82,7 +135,7 @@ El objetivo de este repositorio es organizar mis prácticas y proyectos del mód
   </tr>
   <tr>
     <td>📍 Dirección</td>
-    <td>San Salvador </td>
+    <td>San Salvador</td>
   </tr>
 </table>
 
