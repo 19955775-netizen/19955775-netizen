@@ -74,15 +74,15 @@ El objetivo de este repositorio es organizar mis prácticas y proyectos del mód
 <table>
   <tr>
     <td>📱 Teléfono</td>
-    <td>Tu número aquí</td>
+    <td>1234-1234</td>
   </tr>
   <tr>
     <td>📧 Correo</td>
-    <td>tu-correo@gmail.com</td>
+    <td>1234@gmail.com</td>
   </tr>
   <tr>
     <td>📍 Dirección</td>
-    <td>Tu dirección aquí</td>
+    <td>San Salvador </td>
   </tr>
 </table>
 
