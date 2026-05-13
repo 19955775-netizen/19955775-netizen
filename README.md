@@ -63,54 +63,52 @@ El objetivo de este repositorio es organizar mis prácticas y proyectos del mód
 
 ---
 
-## 📝 Formulario de Datos Personales
+## 📝 Formulario para Clientes
 
 <div align="center">
 
 <p>
-  Información general del estudiante y creador de este repositorio.
+  Si deseas solicitar información, hacer una consulta o pedir un servicio, completa el formulario con tus datos.
 </p>
 
 <table>
   <tr>
     <td>👤 Nombre completo</td>
-    <td>Isaac Solis</td>
+    <td>Campo para que el cliente escriba su nombre</td>
   </tr>
   <tr>
-    <td>🎓 Grado o nivel académico</td>
-    <td>2.º Año "TDS"</td>
+    <td>📧 Correo electrónico</td>
+    <td>Campo para que el cliente escriba su correo</td>
   </tr>
   <tr>
-    <td>🏫 Institución</td>
-    <td>Osicala</td>
+    <td>📱 Teléfono</td>
+    <td>Campo para que el cliente escriba su número</td>
   </tr>
   <tr>
-    <td>💻 Especialidad</td>
-    <td>Desarrollo de Software</td>
+    <td>📍 Dirección o ubicación</td>
+    <td>Campo para que el cliente escriba su ubicación</td>
   </tr>
   <tr>
-    <td>📚 Módulo</td>
-    <td>Módulo 2.1 - Diseño de Sistemas Informáticos utilizando UML</td>
+    <td>💻 Servicio solicitado</td>
+    <td>Campo para indicar qué servicio necesita</td>
   </tr>
   <tr>
-    <td>🌎 País</td>
-    <td>El Salvador</td>
-  </tr>
-  <tr>
-    <td>📌 Intereses</td>
-    <td>Programación, bases de datos, diseño de sistemas y tecnología</td>
-  </tr>
-  <tr>
-    <td>🚀 Objetivo personal</td>
-    <td>Aprender y mejorar mis habilidades como desarrollador de software</td>
+    <td>📝 Mensaje o consulta</td>
+    <td>Campo para que el cliente escriba su mensaje</td>
   </tr>
 </table>
 
 <br>
 
-<img src="https://img.shields.io/badge/Estudiante-Desarrollo%20de%20Software-00C9FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Modulo-2.1-9B59B6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Pais-El%20Salvador-4ADE80?style=for-the-badge" />
+<a href="PEGA_AQUI_EL_LINK_DE_TU_FORMULARIO">
+  <img src="https://img.shields.io/badge/Completar%20Formulario-Click%20Aqui-FF6EC4?style=for-the-badge" />
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Formulario-Clientes-00C9FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Solicitudes-Disponibles-4ADE80?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Respuesta-Pronto-7873F5?style=for-the-badge" />
 
 </div>
 
