@@ -74,15 +74,15 @@ El objetivo de este repositorio es organizar mis prácticas y proyectos del mód
 <table>
   <tr>
     <td>👤 Nombre completo</td>
-    <td>Tu nombre aquí</td>
+    <td>Isaac Solis</td>
   </tr>
   <tr>
     <td>🎓 Grado o nivel académico</td>
-    <td>1.º Año</td>
+    <td>2.º Año "TDS"</td>
   </tr>
   <tr>
     <td>🏫 Institución</td>
-    <td>Tu institución aquí</td>
+    <td>Osicala</td>
   </tr>
   <tr>
     <td>💻 Especialidad</td>
