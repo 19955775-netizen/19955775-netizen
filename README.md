@@ -67,48 +67,37 @@ El objetivo de este repositorio es organizar mis prácticas y proyectos del mód
 
 <div align="center">
 
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280" />
+
+<br><br>
+
+<h3>📋 Completa el formulario oficial</h3>
+
 <p>
-  Si deseas solicitar información, hacer una consulta o pedir un servicio, completa el formulario con tus datos.
+  Si deseas solicitar información, hacer una consulta o pedir un servicio, presiona el botón de abajo.
 </p>
 
-<table>
-  <tr>
-    <td>👤 Nombre completo</td>
-    <td>Campo para que el cliente escriba su nombre</td>
-  </tr>
-  <tr>
-    <td>📧 Correo electrónico</td>
-    <td>Campo para que el cliente escriba su correo</td>
-  </tr>
-  <tr>
-    <td>📱 Teléfono</td>
-    <td>Campo para que el cliente escriba su número</td>
-  </tr>
-  <tr>
-    <td>📍 Dirección o ubicación</td>
-    <td>Campo para que el cliente escriba su ubicación</td>
-  </tr>
-  <tr>
-    <td>💻 Servicio solicitado</td>
-    <td>Campo para indicar qué servicio necesita</td>
-  </tr>
-  <tr>
-    <td>📝 Mensaje o consulta</td>
-    <td>Campo para que el cliente escriba su mensaje</td>
-  </tr>
-</table>
+<p>
+  El botón te llevará directamente a la página web del formulario para clientes, donde podrás escribir tus datos y enviar tu solicitud.
+</p>
 
 <br>
 
 <a href="https://19955775-netizen.github.io/MODULO-2.1/">
-  <img src="https://img.shields.io/badge/Completar%20Formulario-Click%20Aqui-FF6EC4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ABRIR%20FORMULARIO%20OFICIAL-Click%20Aqui-FF6EC4?style=for-the-badge&logo=googleforms&logoColor=white" />
 </a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Formulario-Clientes-00C9FF?style=for-the-badge" />
+<a href="https://19955775-netizen.github.io/MODULO-2.1/">
+  <img src="https://img.shields.io/badge/Destino-Formulario%20Web%20para%20Clientes-7873F5?style=for-the-badge" />
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Clientes-Bienvenidos-00C9FF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Solicitudes-Disponibles-4ADE80?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Respuesta-Pronto-7873F5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Respuesta-Pronto-FFB86C?style=for-the-badge" />
 
 </div>
 
