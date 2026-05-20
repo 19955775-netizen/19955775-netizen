@@ -47,11 +47,25 @@ Aquí guardaré información, ejercicios y avances relacionados con el
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS-2965F1?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/UML-9B59B6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Software-00C9FF?style=for-the-badge" />
+<a href="https://developer.mozilla.org/es/docs/Web/HTML">
+  <img src="https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=white" />
+</a>
+
+<a href="https://developer.mozilla.org/es/docs/Web/CSS">
+  <img src="https://img.shields.io/badge/CSS-2965F1?style=for-the-badge&logo=css3&logoColor=white" />
+</a>
+
+<a href="https://www.lucidchart.com/pages/es/que-es-el-lenguaje-unificado-de-modelado-uml">
+  <img src="https://img.shields.io/badge/UML-9B59B6?style=for-the-badge" />
+</a>
+
+<a href="https://docs.github.com/es">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://es.wikipedia.org/wiki/Software">
+  <img src="https://img.shields.io/badge/Software-00C9FF?style=for-the-badge" />
+</a>
 
 </div>
 
