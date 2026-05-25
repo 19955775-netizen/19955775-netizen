@@ -157,7 +157,7 @@ El objetivo de este repositorio es organizar mis prácticas y proyectos del mód
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ade80,50:7873f5,100:ff6ec4&height=130&section=footer" />
-<img src="https://res.cloudinary.com/dnmuskbfy/image/upload/v1779737694/ChatGPT_Image_25_may_2026_01_33_06_p.m._zgsoco.png">
+<img src="https://res.cloudinary.com/dnmuskbfy/image/upload/v1779737966/copy_of_chatgpt_image_25_may_2026_01_33_06_pm_zgsoco.png">
 
 </div>
 
